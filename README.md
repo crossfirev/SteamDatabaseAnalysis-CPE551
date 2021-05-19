@@ -1,0 +1,2 @@
+# SteamDatabaseAnalysis-CPE551
+This is a program that uses the 'Steam Store Games (Clean dataset)' (link below) dataset to eke out the best: developer, publisher, genre, category, as determined by steam user reviews.
