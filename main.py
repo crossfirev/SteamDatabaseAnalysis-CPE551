@@ -1,3 +1,19 @@
+##
+##          Steam Dataset Analysis
+##          CPE 551 - Final Project
+##
+## Author:Matthew Lepis
+## Date of Last Edit: 5/19/2021
+##
+## Dataset Used: Steam Store Games (Clean dataset)')
+##             : Includes game database information gathered from May 2019')
+##             : https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv')
+##
+## Demonstration:       https://www.youtube.com/watch?v=pZ9TigDik6w
+## GitHub Repository:   https://github.com/crossfirev/SteamDatabaseAnalysis-CPE551
+##
+
+
 ## Import statements
 import pandas as pd
 pd.set_option("display.max_rows", 8, "display.max_columns", 18)
